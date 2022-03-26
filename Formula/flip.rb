@@ -1,8 +1,8 @@
 class Flip < Formula
   desc "Flip coins in your command line"
   homepage "https://github.com/dominicegginton/flip"
-  url "https://github.com/dominicegginton/flip/archive/refs/tags/1.0.0.tar.gz"
-  sha256 "6406e5cc3f06077d2ee7af1c1ca0390e2e7f592c0bbc6fd55c8db38e9f00233a"
+  url "https://github.com/dominicegginton/flip/archive/refs/tags/1.0.1.tar.gz"
+  sha256 "c69092a3f23d6181a436f43e5b3d50d9cc26bbf876fe76ec776a68bcac6a127e"
   license "MIT"
 
   depends_on xcode: ["10.0", :build]
